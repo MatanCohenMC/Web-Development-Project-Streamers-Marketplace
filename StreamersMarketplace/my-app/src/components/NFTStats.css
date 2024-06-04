@@ -1,0 +1,30 @@
+.stats {
+  border: 2px solid #7149c6;
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  padding: 1rem;
+  margin: 1rem;
+  margin-left: 15px;
+  border-radius: 1rem;
+  background-color: #e3ddf0;
+  font-size: 16px;
+}
+
+.stats__amount{
+    margin-left: rem;
+}
+.stats__owned{
+    margin-left: 2rem;
+}
+.stats__viewed{
+      margin-left: 2rem;
+}
+.stats__favs{
+    margin-left: 2rem;
+}
+.stats__category{
+    margin-left: 2rem;
+}

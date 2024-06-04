@@ -1,0 +1,9 @@
+  /* SingleVideoPage.css */
+
+.creator-video-container {
+  text-align: center; /* Center the title and video */
+}
+
+.title {
+  margin-bottom: 20px; /* Add spacing between the title and video */
+}
