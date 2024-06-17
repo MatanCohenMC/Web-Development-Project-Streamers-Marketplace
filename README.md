@@ -2,12 +2,6 @@
 
 <img src="/Streamers Marketplace Poster.png" width="400" height="600"/>
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Usage](#usage)
-- [Contact](#contact)
 
 ## Overview
 
